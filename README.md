@@ -2,7 +2,7 @@
 
 Movie Watchlist is a web app that displays current popular movies and allows you to add any movie to your watchlist. The app was built using React and bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<!-- ![Movie Watchlist]() -->
+![Movie Watchlist Home](https://github.com/leemaiwu/Project-Movie-Watchlist/blob/main/readme_img/movie-watchlist-home.png?raw=true)
 
 ## How to Use the App
 
@@ -15,6 +15,8 @@ Movie Watchlist is a web app that displays current popular movies and allows you
 
 - View movies, use the 'Previous' and 'Next' buttons to view more.
 - Add and Remove movies to your Watchlist.
+
+![Added Movie to Watchlist](https://github.com/leemaiwu/Project-Movie-Watchlist/blob/main/readme_img/movie-watchlist-added.png?raw=true)
 
 ## API
 
