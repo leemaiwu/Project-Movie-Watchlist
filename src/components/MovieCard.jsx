@@ -11,7 +11,7 @@ const MovieCard = ({ movie, addMovie, removeMovie, list }) => {
             <button className='button' onClick={() => addMovie(movie)}>Add to List</button>
             ) : (
               <button className='button' onClick={() => removeMovie(movie)}>Remove</button>
-            );
+            )
 
     return (
         <div className='movie-card'>
